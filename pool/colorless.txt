@@ -1,0 +1,80 @@
+1 Aether Spellbomb
+4 Ashnod's Altar
+1 Blisterpod
+2 Bonesplitter
+4 Bottle Gnomes
+4 Boulderbranch Golem
+4 Campfire
+4 Candy Trail
+4 Chromatic Sphere
+4 Chromatic Star
+4 Conjurer's Bauble
+2 Corpse Cur
+2 Crashing Drawbridge
+4 Energy Refractor
+4 Everflowing Chalice
+4 Expedition Map
+1 Feldon's Cane
+4 Filigree Familiar
+1 Fodder Tosser
+2 Foundry Inspector
+4 Frogmite
+2 Ghostfire
+4 Gingerbrute
+1 Golden Egg
+4 Golem Foundry
+3 Halo Hopper
+4 Ichor Wellspring
+4 Ichorclaw Myr
+4 Immolating Souleater
+4 Implement of Combustion
+2 Introduction to Prophecy
+4 Lembas
+2 Leonin Bola
+4 Lotus Petal
+4 Maelstrom Colossus
+1 Maze Skullbomb
+2 Metallic Sliver
+1 Meteorite
+1 Mine Worker
+4 Myr Enforcer
+4 Myr Kinsmith
+4 Myr Retriever
+4 Navigator's Compass
+3 Network Terminal
+1 Neurok Stealthsuit
+5 Nihil Spellbomb
+4 Ornithopter
+4 Pentad Prism
+1 Phyrexian Walker
+1 Power Plant Worker
+3 Pristine Talisman
+4 Pyrite Spellbomb
+4 Relic of Progenitus
+2 Renegade Freighter
+2 Runaway Boulder
+2 Rust Goliath
+4 Scrapwork Mutt
+4 Self-Assembler
+4 Serrated Arrows
+4 Shield-Wall Sentinel
+1 Slip Through Space
+4 Spare Supplies
+3 Spire Golem
+4 Springleaf Drum
+3 Staunch Throneguard
+2 Sylvok Lifestaff
+4 Tangle Golem
+4 Tormod's Crypt
+1 Tower Worker
+4 Trailblazer's Torch
+4 Ulamog's Crusher
+4 Universal Automaton
+1 Urn of Godfire
+3 Viridian Longbow
+2 Wall of Tanglecord
+4 Wedding Invitation
+3 Welding Jar
+4 Wizard's Rockets
+2 Woodweaver's Puzzleknot
+4 Wretched Gryff

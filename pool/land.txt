@@ -1,0 +1,139 @@
+4 Ancient Den
+4 Arctic Treeline
+4 Ash Barrens
+4 Azorius Chancery
+4 Azorius Guildgate
+4 Barren Moor
+4 Basilisk Gate
+4 Black Dragon Gate
+2 Bloodfell Caves
+4 Blossoming Sands
+4 Bojuka Bog
+4 Boros Garrison
+4 Boros Guildgate
+4 Brokers Hideout
+4 Cabaretti Courtyard
+1 Captivating Cave
+1 Cave of Temptation
+4 Citadel Gate
+4 Cliffgate
+4 Contaminated Aquifer
+4 Crystal Grotto
+3 Darkmoss Bridge
+4 Darksteel Citadel
+4 Desert
+3 Dimir Aqueduct
+4 Dismal Backwater
+1 Drifting Meadow
+4 Drossforge Bridge
+4 Escape Tunnel
+2 Evolving Wilds
+17 Forest
+1 Forgotten Cave
+4 Geothermal Bog
+2 Gingerbread Cabin
+2 Glacial Floodplain
+4 Goldmire Bridge
+2 Golgari Rot Farm
+4 Great Furnace
+1 Gruul Turf
+1 Halimar Depths
+1 Haunted Fengraf
+4 Haunted Mire
+4 Heap Gate
+4 Hickory Woodlot
+1 Hidden Necropolis
+1 Hidden Volcano
+3 Highland Forest
+3 Holdout Settlement
+4 Ice Tunnel
+3 Idyllic Beachfront
+4 Idyllic Grange
+19 Island
+2 Izzet Boilerworks
+2 Kabira Crossroads
+4 Khalni Garden
+2 Lonely Sandbar
+1 Lorehold Campus
+4 Maestros Theater
+4 Manor Gate
+4 Mistvault Bridge
+2 Molten Tributary
+1 Mortuary Mire
+18 Mountain
+4 Obscura Storefront
+4 Orzhov Basilica
+4 Orzhov Guildgate
+1 Painted Bluffs
+4 Peat Bog
+18 Plains
+1 Polluted Mire
+1 Prismari Campus
+2 Promising Vein
+1 Public Thoroughfare
+2 Quandrix Campus
+4 Radiant Fountain
+3 Radiant Grove
+3 Rakdos Carnarium
+4 Razortide Bridge
+2 Remote Farm
+1 Remote Isle
+2 Rimewood Falls
+4 Rugged Highlands
+4 Rustvale Bridge
+1 Sacred Peaks
+4 Sandstone Needle
+4 Saprazzan Skerry
+4 Scoured Barrens
+4 Sea Gate
+4 Seat of the Synod
+3 Secluded Steppe
+2 Selesnya Guildgate
+2 Selesnya Sanctuary
+1 Shimmering Grotto
+1 Shire Terrace
+4 Silverbluff Bridge
+2 Silverquill Campus
+4 Simic Growth Chamber
+2 Simic Guildgate
+4 Slagwoods Bridge
+1 Slippery Karst
+1 Smoldering Crater
+16 Snow-Covered Forest
+12 Snow-Covered Island
+4 Snow-Covered Mountain
+2 Snow-Covered Plains
+1 Snow-Covered Swamp
+4 Snowfield Sinkhole
+1 Sulfurous Mire
+4 Sunlit Marsh
+2 Survivors' Encampment
+18 Swamp
+2 Swiftwater Cliffs
+3 Tangled Islet
+1 Terramorphic Expanse
+4 The Autonomous Furnace
+2 The Dross Pits
+2 The Fair Basilica
+4 Thornglint Bridge
+4 Thornwood Falls
+4 Thriving Grove
+4 Thriving Heath
+4 Thriving Isle
+1 Tocasia's Dig Site
+4 Tramway Station
+4 Tranquil Cove
+2 Tranquil Thicket
+1 Tree of Tales
+1 Unknown Shores
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+4 Vault of Whispers
+4 Volatile Fjord
+1 Waterfront District
+4 Wind-Scarred Crag
+4 Witch's Cottage
+1 Witherbloom Campus
+2 Wooded Ridgeline
+4 Woodland Chasm
