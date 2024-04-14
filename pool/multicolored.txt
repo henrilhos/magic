@@ -33,6 +33,7 @@
 1 Pest Summoning
 2 Qasali Pridemage
 4 Safehold Elite
+1 Shambling Shell
 4 Shattering Blow
 4 Slippery Bogle
 1 Soul Manipulation

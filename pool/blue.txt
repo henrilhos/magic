@@ -118,7 +118,7 @@
 4 One With the Wind
 1 Opt
 1 Out Cold
-1 Peek
+2 Peek
 10 Persistent Petitioners
 4 Pieces of the Puzzle
 3 Piracy Charm
@@ -161,7 +161,7 @@
 4 Spellstutter Sprite
 3 Spined Megalodon
 4 Spreading Seas
-1 Steady Progress
+4 Steady Progress
 4 Steel Sabotage
 1 Step Through
 3 Stormbound Geist
