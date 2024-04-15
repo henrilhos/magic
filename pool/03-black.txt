@@ -48,7 +48,7 @@
 4 Discerning Taste
 3 Disfigure
 3 Distress
-2 Divest
+3 Divest
 3 Doom Blade
 4 Dread Return
 4 Drown in Sorrow
@@ -120,7 +120,7 @@
 4 Nested Shambler
 4 Night's Whisper
 4 Not Dead After All
-4 Okiba Reckoner Raid
+4 Okiba Reckoner Raid // Nezumi Road Captain
 3 Okiba-Gang Shinobi
 3 Olivia's Dragoon
 3 Omen of the Dead
@@ -176,7 +176,7 @@
 2 Tasigur's Cruelty
 1 Tendrils of Corruption
 4 Thorn of the Black Rose
-4 Tithing Blade
+4 Tithing Blade // Consuming Sepulcher
 1 Tizerus Charger
 4 Tortured Existence
 4 Toxin Analysis

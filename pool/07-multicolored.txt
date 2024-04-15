@@ -7,7 +7,7 @@
 1 Branching Bolt
 4 Breathless Knight
 4 Burning-Tree Emissary
-3 Castigate
+4 Castigate
 4 Coiling Oracle
 4 Countersquall
 3 Cram Session
@@ -16,7 +16,7 @@
 2 Dinrova Horror
 4 Double Cleave
 2 Eureka Moment
-3 Fire / Ice
+3 Fire // Ice
 4 Foundry Helix
 1 Gift of Orzhova
 4 Growth Spiral
@@ -35,6 +35,7 @@
 4 Safehold Elite
 1 Shambling Shell
 4 Shattering Blow
+1 Sivitri Scarzam
 4 Slippery Bogle
 1 Soul Manipulation
 1 Sundering Growth

@@ -26,12 +26,13 @@
 1 Crusher Zendikon
 4 Curse of the Pierced Heart
 2 Dark-Dweller Oracle
-2 Dead / Gone
+2 Dead // Gone
 2 Deface
 4 Demand Answers
 3 Dragon Breath
 4 Drannith Stinger
 4 Dwarven Forge-Chanter
+2 Earth Rift
 3 Echoing Ruin
 4 Electrickery
 1 Ember-Fist Zubera
@@ -99,7 +100,7 @@
 2 Magmatic Sinkhole
 2 Makeshift Munitions
 3 Martyr of Ashes
-1 Merchant of the Vale
+1 Merchant of the Vale // Haggle
 4 Mine Collapse
 4 Mirran Banesplitter
 2 Mob Justice

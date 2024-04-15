@@ -27,7 +27,7 @@
 1 Drifting Meadow
 4 Drossforge Bridge
 4 Escape Tunnel
-2 Evolving Wilds
+3 Evolving Wilds
 17 Forest
 1 Forgotten Cave
 4 Geothermal Bog
@@ -105,7 +105,7 @@
 2 Snow-Covered Plains
 1 Snow-Covered Swamp
 4 Snowfield Sinkhole
-1 Sulfurous Mire
+2 Sulfurous Mire
 4 Sunlit Marsh
 2 Survivors' Encampment
 18 Swamp

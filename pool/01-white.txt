@@ -17,17 +17,18 @@
 4 Benevolent Bodyguard
 4 Blacksmith's Skill
 2 Blessed Breath
-2 Blessed Hippogriff
+2 Blessed Hippogriff // Tyr's Blessing
 3 Borrowed Grace
 4 Cartouche of Solidarity
 1 Cathar Commando
 4 Celestial Flare
 2 Cenn's Enlistment
 1 Charge
+1 Cho-Manno's Blessing
 2 Circle of Protection: Black
 4 Circle of Protection: Blue
 2 Circle of Protection: Green
-2 Circle of Protection: Red
+3 Circle of Protection: Red
 1 Circle of Protection: White
 2 Cloudshift
 3 Coalition Honor Guard
@@ -65,7 +66,7 @@
 4 God-Pharaoh's Faithful
 4 Goliath Paladin
 3 Greatsword of Tyr
-3 Guardian Naga
+3 Guardian Naga // Banishing Coils
 4 Guardian of the Guildpact
 3 Guardians' Pledge
 4 Hallow
@@ -103,10 +104,10 @@
 4 Light of Hope
 3 Lone Missionary
 4 Loran's Escape
-4 Loyal Cathar
+4 Loyal Cathar // Unhallowed Cathar
 4 Loyal Sentry
 3 Lumithread Field
-4 Lunarch Veteran
+4 Lunarch Veteran // Luminous Phantom
 1 Make Your Move
 1 Makeshift Binding
 3 Mana Tithe
@@ -120,10 +121,10 @@
 4 Obsidian Acolyte
 2 Omen of the Sun
 1 Orim's Cure
-2 Oteclan Landmark
+2 Oteclan Landmark // Oteclan Levitator
 3 Palace Sentinels
 1 Patrician's Scorn
-3 Pegasus Guardian
+3 Pegasus Guardian // Rescue the Foal
 2 Petrify
 3 Pilgrim of Virtue
 4 Plated Sliver
