@@ -9,8 +9,11 @@
 4 Chromatic Sphere
 4 Chromatic Star
 4 Conjurer's Bauble
+1 Contortionist Otter Storm
+1 Cool Fluffy Loxodon
 2 Corpse Cur
 2 Crashing Drawbridge
+1 Cursed Firebreathing Yogurt
 4 Energy Refractor
 4 Everflowing Chalice
 4 Expedition Map
@@ -37,17 +40,22 @@
 2 Metallic Sliver
 1 Meteorite
 1 Mine Worker
+1 Misunderstood Trapeze Elf
 4 Myr Enforcer
 4 Myr Kinsmith
 4 Myr Retriever
+1 Narrow-Minded Baloney Fireworks
 4 Navigator's Compass
 3 Network Terminal
 1 Neurok Stealthsuit
-5 Nihil Spellbomb
+1 Night Brushwagg Ringmaster
+4 Nihil Spellbomb
 4 Ornithopter
 4 Pentad Prism
+1 Phyrexian Midway Bamboozle
 1 Phyrexian Walker
 1 Power Plant Worker
+1 Primal Elder Kitty
 3 Pristine Talisman
 4 Pyrite Spellbomb
 4 Relic of Progenitus
@@ -68,13 +76,17 @@
 4 Tormod's Crypt
 1 Tower Worker
 4 Trailblazer's Torch
+1 Trained Blessed Mind
+1 Trendy Circus Pirate
 4 Ulamog's Crusher
+1 Unique Charmed Pants
 4 Universal Automaton
 1 Urn of Godfire
 3 Viridian Longbow
 2 Wall of Tanglecord
 4 Wedding Invitation
 3 Welding Jar
+1 Wild Ogre Bupkis
 4 Wizard's Rockets
 2 Woodweaver's Puzzleknot
 4 Wretched Gryff

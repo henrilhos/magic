@@ -78,6 +78,7 @@
 4 Guttersnipe
 2 Heart Sliver
 4 Hearth Charm
+3 Highway Robbery
 4 Hunter Sliver
 1 Impact Tremors
 3 Improvised Club
@@ -100,6 +101,7 @@
 2 Magmatic Sinkhole
 2 Makeshift Munitions
 3 Martyr of Ashes
+2 Maximize Velocity
 1 Merchant of the Vale // Haggle
 4 Mine Collapse
 4 Mirran Banesplitter
@@ -118,6 +120,7 @@
 4 Reckless Charge
 4 Reckless Fireweaver
 4 Reckless Impulse
+4 Reckless Lackey
 4 Red Elemental Blast
 1 Revolutionist
 4 Rift Bolt

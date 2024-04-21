@@ -9,7 +9,6 @@
 4 Burning-Tree Emissary
 4 Castigate
 4 Coiling Oracle
-4 Countersquall
 3 Cram Session
 3 Curse of Chains
 2 Dihada's Ploy
@@ -32,6 +31,7 @@
 4 Nivix Cyclops
 1 Pest Summoning
 2 Qasali Pridemage
+1 Recoil
 4 Safehold Elite
 1 Shambling Shell
 4 Shattering Blow

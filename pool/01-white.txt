@@ -42,8 +42,9 @@
 4 Deftblade Elite
 4 Destroy Evil
 2 Devout Harpist
+3 Disciple of Grace
 2 Disciple of Law
-2 Disenchant
+4 Disenchant
 2 Divine Offering
 3 Doomed Traveler
 4 Drannith Healer
@@ -54,6 +55,8 @@
 4 Emerge Unscathed
 4 Ephemerate
 4 Ethereal Armor
+1 Family Reunion
+2 Fate Forgotten
 3 Field Surgeon
 2 Forsake the Worldly
 2 Fragmentize
@@ -72,13 +75,13 @@
 4 Hallow
 4 Heliod's Pilgrim
 3 Hive Stirrings
-2 Holy Day
+4 Holy Day
 3 Holy Light
 4 Homestead Courage
 4 Honorable Scout
 3 Hopeful Vigil
 4 Hyena Umbra
-3 Icatian Javelineers
+4 Icatian Javelineers
 3 Imperial Oath
 4 Imposing Vantasaur
 4 Indoctrination Attendant
@@ -122,8 +125,9 @@
 2 Omen of the Sun
 1 Orim's Cure
 2 Oteclan Landmark // Oteclan Levitator
+4 Outlaw Medic
 3 Palace Sentinels
-1 Patrician's Scorn
+2 Patrician's Scorn
 3 Pegasus Guardian // Rescue the Foal
 2 Petrify
 3 Pilgrim of Virtue

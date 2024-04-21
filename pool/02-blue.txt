@@ -49,7 +49,7 @@
 1 Dragon Wings
 4 Drift of Phantasms
 4 Echoing Truth
-2 Enchantment Alteration
+4 Enchantment Alteration
 3 Envelop
 3 Essence Scatter
 3 Exclude

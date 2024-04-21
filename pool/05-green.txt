@@ -84,7 +84,7 @@
 4 Llanowar Augur
 4 Llanowar Elves
 4 Llanowar Visionary
-3 Lys Alana Huntmaster
+4 Lys Alana Huntmaster
 3 Magnify
 4 Many Partings
 4 Masked Vandal
@@ -111,7 +111,7 @@
 2 Orochi Leafcaller
 4 Overgrown Battlement
 3 Owlbear
-2 Penumbra Spider
+3 Penumbra Spider
 1 Phytoburst
 4 Pick Your Poison
 2 Poison Dart Frog
@@ -134,6 +134,7 @@
 2 Revive the Shire
 1 Rift Sower
 4 River Boa
+2 Rofellos's Gift
 4 Rubblebelt Maverick
 2 Rust
 4 Sakura-Tribe Elder

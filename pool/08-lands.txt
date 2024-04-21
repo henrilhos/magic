@@ -1,3 +1,4 @@
+4 Abraded Bluffs
 4 Ancient Den
 4 Arctic Treeline
 4 Ash Barrens
@@ -17,12 +18,13 @@
 1 Cave of Temptation
 4 Citadel Gate
 4 Cliffgate
+2 Conduit Pylons
 4 Contaminated Aquifer
 4 Crystal Grotto
 3 Darkmoss Bridge
 4 Darksteel Citadel
 4 Desert
-3 Dimir Aqueduct
+4 Dimir Aqueduct
 4 Dismal Backwater
 1 Drifting Meadow
 4 Drossforge Bridge
@@ -51,10 +53,11 @@
 4 Idyllic Grange
 19 Island
 2 Izzet Boilerworks
+4 Jagged Barrens
 2 Kabira Crossroads
 4 Khalni Garden
 2 Lonely Sandbar
-1 Lorehold Campus
+4 Lorehold Campus
 4 Maestros Theater
 4 Manor Gate
 4 Mistvault Bridge
