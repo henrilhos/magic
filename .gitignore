@@ -10,3 +10,7 @@
 # User-specific stuff
 .idea/
 to-organize/
+raw-data/
+
+# Cache
+__pycache__

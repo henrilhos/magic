@@ -2,13 +2,13 @@ from pymongo import MongoClient
 
 
 class DbService:
-    POOL_COLLECTION = "pool"
     DECKS_COLLECTION = "decks"
+    EVENTS_COLLECTION = "events"
     PERSONAL_POOL = "personal_pool"
     PILOTS_COLLECTION = "pilots"
-    EVENTS_COLLECTION = "events"
+    POOL_COLLECTION = "pool"
 
-    def __init__(self, uri="mongodb://localhost:27017", db_name="mtg_decks_db"):
+    def __init__(self, uri="mongodb://localhost:27017", db_name="mtg_pauper"):
         self.__uri = uri
         self.__db_name = db_name
         self.__client = MongoClient(self.__uri)
