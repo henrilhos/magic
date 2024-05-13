@@ -8,7 +8,7 @@ class DbService:
     PILOTS_COLLECTION = "pilots"
     POOL_COLLECTION = "pool"
 
-    def __init__(self, uri="mongodb://localhost:27017", db_name="mtg_pauper"):
+    def __init__(self, uri="mongodb://localhost:27017", db_name="mtg_decks_db"):
         self.__uri = uri
         self.__db_name = db_name
         self.__client = MongoClient(self.__uri)
