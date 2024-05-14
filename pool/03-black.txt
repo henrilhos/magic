@@ -3,7 +3,7 @@
 4 Anoint with Affliction
 1 Another Chance
 4 Arms of Hadar
-3 Ashen-Skin Zubera
+1 Ashes to Ashes
 1 Bala Ged Scorpion
 2 Befoul
 2 Bladed Battle-Fan
@@ -33,12 +33,12 @@
 2 Crypt Incursion
 4 Crypt Rats
 4 Crypt Sliver
-3 Culling the Weak
+4 Culling the Weak
 4 Cuombajj Witches
 4 Dark Ritual
 3 Dark Withering
 3 Darkness
-2 Dash Hopes
+3 Dash Hopes
 4 Dead Weight
 4 Deadly Dispute
 1 Death Denied
@@ -51,26 +51,29 @@
 4 Discerning Taste
 3 Disfigure
 3 Distress
-3 Divest
+4 Divest
 3 Doom Blade
 4 Dread Return
 4 Drown in Sorrow
 4 Duress
 4 Dusk Legion Zealot
 4 Eaten Alive
-2 Echoing Decay
+3 Echoing Decay
+1 Echoing Return
 3 Eriette's Whisper
-2 Essence Harvest
 2 Evil Presence
 2 Evincar's Justice
 4 Exhume
 3 Extract a Confession
+1 Extract the Truth
 4 Faerie Macabre
 4 Fanatical Offering
 2 Feed the Swarm
+4 Festering Mummy
 2 Final Flourish
 2 First-Sphere Gargantua
 4 Fleshbag Marauder
+2 Foul-Tongue Shriek
 2 Fourth Bridge Prowler
 4 Fruit of Tizerus
 3 Fungal Fortitude
@@ -78,11 +81,13 @@
 4 Gempalm Polluter
 4 Geth's Verdict
 1 Ghastly Demise
+4 Ghoulcaller's Chant
 4 Gixian Infiltrator
 4 Glaze Fiend
 2 Gloomfang Mauler
 1 Go for the Throat
 4 Gorgon Recluse
+1 Grave Scrabbler
 4 Gray Merchant of Asphodel
 4 Greedy Freebooter
 2 Grim Affliction
@@ -104,22 +109,28 @@
 4 Kitchen Imp
 2 Kjeldoran Dead
 1 Last Rites
-2 Lazotep Reaver
+4 Lazotep Reaver
 4 Liliana's Specter
 4 Lotleth Giant
 1 Macabre Reconstruction
 4 Mana Skimmer
 4 Marauding Blight-Priest
 4 Mephitic Draught
+1 Mephitic Vapors
 3 Mesmeric Fiend
 1 Mind Extraction
+2 Mindstab
 4 Mire Triton
+4 Mirkwood Bats
 3 Mirrodin Avenged
 2 Mogis's Favor
 1 Mold Folk
+1 Moment of Craving
 4 Morsel Theft
 1 Mournwhelk
 2 Mukotai Ambusher
+4 Nadier's Nightblade
+4 Nameless Inversion
 2 Nausea
 4 Nested Shambler
 4 Night's Whisper
@@ -145,6 +156,7 @@
 4 Rancid Earth
 4 Ransack the Lab
 1 Rat Out
+4 Raven of Fell Omens
 1 Raven's Crime
 4 Reaping the Graves
 4 Reckoner's Bargain
@@ -153,12 +165,12 @@
 2 Rotting Rats
 4 Rowan's Grim Search
 1 Sanitarium Skeleton
+2 Scarab Feast
 2 Scream Puff
 4 Seekers' Squire
 1 Sepulcher Ghoul
 4 Serrated Scorpion
 4 Shambling Ghast
-1 Shelob's Ambush
 4 Shepherd of Rot
 1 Shred Memory
 4 Shrivel
@@ -177,6 +189,8 @@
 2 Sugar Rush
 4 Supernatural Stamina
 2 Sweettooth Witch
+1 Syphon Life
+1 Tainted Strike
 2 Tasigur's Cruelty
 1 Tendrils of Corruption
 4 Thorn of the Black Rose
@@ -197,12 +211,11 @@
 4 Vampire Sovereign
 4 Vampire Spawn
 4 Vampire's Kiss
-4 Vault Skirge
+2 Vault Skirge
 2 Vendetta
 4 Village Rites
 4 Virus Beetle
 3 Viscera Dragger
-1 Viscera Seer
 3 Voracious Vermin
 3 Warehouse Tabby
 1 Whisper of the Dross

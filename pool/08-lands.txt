@@ -18,11 +18,12 @@
 1 Cave of Temptation
 4 Citadel Gate
 4 Cliffgate
-2 Conduit Pylons
+3 Conduit Pylons
 4 Contaminated Aquifer
+2 Creosote Heath
 4 Crystal Grotto
 3 Darkmoss Bridge
-4 Darksteel Citadel
+1 Darksteel Citadel
 4 Desert
 4 Dimir Aqueduct
 4 Dismal Backwater
@@ -31,7 +32,7 @@
 4 Escape Tunnel
 3 Evolving Wilds
 17 Forest
-1 Forgotten Cave
+2 Forgotten Cave
 4 Geothermal Bog
 2 Gingerbread Cabin
 2 Glacial Floodplain
@@ -56,8 +57,8 @@
 4 Jagged Barrens
 2 Kabira Crossroads
 4 Khalni Garden
-2 Lonely Sandbar
-4 Lorehold Campus
+4 Lonely Sandbar
+1 Lorehold Campus
 4 Maestros Theater
 4 Manor Gate
 4 Mistvault Bridge
@@ -69,7 +70,8 @@
 4 Orzhov Guildgate
 1 Painted Bluffs
 4 Peat Bog
-18 Plains
+4 Piranha Marsh
+19 Plains
 1 Polluted Mire
 1 Prismari Campus
 2 Promising Vein
@@ -79,7 +81,6 @@
 3 Radiant Grove
 3 Rakdos Carnarium
 4 Razortide Bridge
-2 Remote Farm
 1 Remote Isle
 2 Rimewood Falls
 4 Rugged Highlands
@@ -90,13 +91,13 @@
 4 Scoured Barrens
 4 Sea Gate
 4 Seat of the Synod
-3 Secluded Steppe
+2 Secluded Steppe
 2 Selesnya Guildgate
 2 Selesnya Sanctuary
 1 Shimmering Grotto
 1 Shire Terrace
 4 Silverbluff Bridge
-2 Silverquill Campus
+1 Silverquill Campus
 4 Simic Growth Chamber
 2 Simic Guildgate
 4 Slagwoods Bridge
@@ -106,7 +107,7 @@
 12 Snow-Covered Island
 4 Snow-Covered Mountain
 2 Snow-Covered Plains
-1 Snow-Covered Swamp
+10 Snow-Covered Swamp
 4 Snowfield Sinkhole
 2 Sulfurous Mire
 4 Sunlit Marsh
@@ -118,8 +119,9 @@
 4 The Autonomous Furnace
 2 The Dross Pits
 2 The Fair Basilica
-4 Thornglint Bridge
+1 Thornglint Bridge
 4 Thornwood Falls
+1 Thriving Bluff
 4 Thriving Grove
 4 Thriving Heath
 4 Thriving Isle

@@ -2,9 +2,9 @@
 3 Agony Warp
 3 Architects of Will
 4 Armadillo Cloak
-3 Beckon Apparition
+2 Beckon Apparition
 2 Blightning
-1 Branching Bolt
+2 Branching Bolt
 4 Breathless Knight
 4 Burning-Tree Emissary
 4 Castigate
@@ -17,10 +17,9 @@
 2 Eureka Moment
 3 Fire // Ice
 4 Foundry Helix
-1 Gift of Orzhova
+2 Gift of Orzhova
 4 Growth Spiral
 2 Harsh Sustenance
-1 Hindering Light
 4 Inside Out
 2 Izzet Charm
 1 Jedit Ojanen
@@ -32,18 +31,15 @@
 1 Pest Summoning
 2 Qasali Pridemage
 1 Recoil
-4 Safehold Elite
 1 Shambling Shell
-4 Shattering Blow
+3 Shattering Blow
 1 Sivitri Scarzam
 4 Slippery Bogle
 1 Soul Manipulation
 1 Sundering Growth
 4 Temporal Spring
-1 Terminal Agony
+2 Terminal Agony
 2 Terminate
-1 The Lady of the Mountain
 4 Thrilling Discovery
 1 Tobias Andrion
 4 Unmake
-3 Vedalken Outlander

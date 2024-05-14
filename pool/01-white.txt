@@ -1,22 +1,18 @@
 4 Akroan Skyguard
-4 All That Glitters
 2 Ancestral Blade
 4 Angelic Renewal
 1 Angelsong
 4 Apostle's Blessing
 3 Arashin Cleric
-4 Ardent Recruit
 1 Auramancer
-4 Auriok Sunchaser
 2 Aviary Mechanic
 1 Bar the Door
 4 Bartered Cow
 4 Battle Screech
 4 Battlefield Raptor
-4 Benevolent Blessing
+3 Benevolent Blessing
 4 Benevolent Bodyguard
-4 Blacksmith's Skill
-2 Blessed Breath
+1 Blacksmith's Skill
 2 Blessed Hippogriff // Tyr's Blessing
 3 Borrowed Grace
 4 Cartouche of Solidarity
@@ -24,27 +20,24 @@
 4 Celestial Flare
 2 Cenn's Enlistment
 1 Charge
-1 Cho-Manno's Blessing
 2 Circle of Protection: Black
 4 Circle of Protection: Blue
 2 Circle of Protection: Green
 3 Circle of Protection: Red
-1 Circle of Protection: White
 2 Cloudshift
 3 Coalition Honor Guard
 4 Cooped Up
 4 Crimson Acolyte
+1 Cursebreak
 1 Custodi Squire
-1 Dawn Charm
+2 Dawn Charm
 4 Dawnbringer Cleric
 4 Daybreak Chimera
-3 Death Speakers
-4 Deftblade Elite
 4 Destroy Evil
 2 Devout Harpist
 3 Disciple of Grace
-2 Disciple of Law
 4 Disenchant
+1 Dispeller's Capsule
 2 Divine Offering
 3 Doomed Traveler
 4 Drannith Healer
@@ -55,8 +48,7 @@
 4 Emerge Unscathed
 4 Ephemerate
 4 Ethereal Armor
-1 Family Reunion
-2 Fate Forgotten
+2 Family Reunion
 3 Field Surgeon
 2 Forsake the Worldly
 2 Fragmentize
@@ -68,15 +60,15 @@
 4 Glint Hawk
 4 God-Pharaoh's Faithful
 4 Goliath Paladin
-3 Greatsword of Tyr
+4 Greatsword of Tyr
 3 Guardian Naga // Banishing Coils
 4 Guardian of the Guildpact
 3 Guardians' Pledge
 4 Hallow
-4 Heliod's Pilgrim
 3 Hive Stirrings
-4 Holy Day
-3 Holy Light
+2 Holy Cow
+2 Holy Day
+2 Holy Light
 4 Homestead Courage
 4 Honorable Scout
 3 Hopeful Vigil
@@ -100,12 +92,11 @@
 2 Late to Dinner
 3 Leave No Trace
 4 Legion Conquistador
-2 Lens Flare
 3 Leonin Elder
 1 Leonin Squire
 3 Lifelink
-4 Light of Hope
-3 Lone Missionary
+2 Light of Hope
+4 Lone Missionary
 4 Loran's Escape
 4 Loyal Cathar // Unhallowed Cathar
 4 Loyal Sentry
@@ -118,7 +109,6 @@
 4 Mask of Law and Grace
 4 Midnight Guard
 4 Militia Bugler
-2 Mine Excavation
 4 Novice Inspector
 4 Oblivion Ring
 4 Obsidian Acolyte
@@ -127,7 +117,7 @@
 2 Oteclan Landmark // Oteclan Levitator
 4 Outlaw Medic
 3 Palace Sentinels
-2 Patrician's Scorn
+1 Patrician's Scorn
 3 Pegasus Guardian // Rescue the Foal
 2 Petrify
 3 Pilgrim of Virtue
@@ -137,7 +127,6 @@
 1 Quicksand Whirlpool
 1 Radiant's Judgment
 4 Raffine's Informant
-1 Raise the Alarm
 3 Rally the Peasants
 4 Ramosian Rally
 4 Ray of Revelation
@@ -145,11 +134,13 @@
 2 Recruit the Worthy
 2 Remove Enchantments
 1 Renewed Faith
+3 Rest for the Weary
 4 Revoke Existence
 2 Rhystic Circle
 4 Sacred Cat
 3 Sacred Rites
 3 Safe Passage
+2 Sanctify
 3 Savior of the Sleeping
 1 Scholar of Athreos
 2 Scrollshift
@@ -157,7 +148,7 @@
 4 Search Party Captain
 4 Seeker of the Way
 4 Sentinel Sliver
-4 Sentinel's Eyes
+3 Sentinel's Eyes
 2 Seraph of Dawn
 4 Shield Wall
 4 Shield of Duty and Reason
@@ -167,13 +158,12 @@
 4 Soul Warden
 3 Soul of Migration
 3 Soul's Attendant
-4 Spirit Link
+3 Spirit Link
 4 Spirited Companion
 4 Squadron Hawk
 3 Squire's Devotion
 2 Stalwart Valkyrie
 4 Standard Bearer
-2 Stave Off
 3 Steadfast Unicorn
 3 Stockpiling Celebrant
 2 Stonehorn Dignitary
@@ -190,5 +180,6 @@
 1 Veteran Armorer
 2 Wall of Hope
 4 War Falcon
-1 War Report
 3 Westfold Rider
+2 Whitemane Lion
+2 You Hear Something on Watch
