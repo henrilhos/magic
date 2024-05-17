@@ -1,193 +1,91 @@
 4 Accumulated Knowledge
-2 Advanced Stitchwing
-1 Aethersnipe
 4 Annul
-4 Aquamoeba
-3 Aqueous Form
 4 Arcane Denial
 3 Archaeomancer
-2 Artful Dodge
 4 Augur of Bolas
-1 Aura Flux
-1 Aven Fogbringer
 3 Azure Fleet Admiral
 4 Behold the Multiverse
-2 Bind the Monster
-4 Birthday Escape
-4 Blighted Agent
 4 Blue Elemental Blast
 4 Boomerang
 4 Brainstorm
 4 Brinebarrow Intruder
 4 Bring the Ending
-4 Careful Study
-4 Circular Logic
-1 Clear the Mind
 3 Compulsive Research
-2 Condescend
 4 Consider
 4 Contentious Plan
-2 Coral Net
 4 Counterspell
-1 Court Hussar
 4 Cryptic Serpent
-2 Curate
 3 Curfew
-1 Curse of the Bloody Tome
 4 Deduce
 4 Deep Analysis
 4 Delver of Secrets // Insectile Aberration
-2 Deprive
-2 Disdainful Stroke
 4 Dispel
-3 Disrupt
 4 Distant Melody
-2 Distortion Strike
-3 Dive Down
-1 Dizzy Spell
-1 Dragon Wings
-1 Dreamwinder
 4 Drift of Phantasms
 4 Echoing Truth
-2 Enchantment Alteration
 2 Envelop
 3 Essence Scatter
 3 Exclude
 4 Experimental Augury
-2 Eye of Nowhere
-4 Fade Away
 4 Faerie Miscreant
 4 Faerie Seer
 4 Fallaji Archaeologist
 3 False Summoning
-4 Fathom Seer
-3 Flash Flood
-1 Flood of Recollection
-4 Foil
-1 Forbidden Alchemy
 4 Force Spike
 4 Frantic Inventory
 1 Freed from the Real
-2 Freeze in Place
 1 Galvanic Alchemist
 3 Gearseeker Serpent
 2 Ghostly Flicker
-4 Gigadrowse
-4 Glistener Seer
-3 Glorious Gale
-3 Halimar Excavator
-3 Hard Evidence
-1 Hieroglyphic Illumination
-4 Hoodwink
 4 Hydroblast
 4 Impulse
-2 Jace's Erasure
 4 Jace's Phantasm
 2 Keep Watch
 4 Kenku Artificer
-1 Leapfrog
-1 Logic Knot
 3 Lose Focus
 4 Lórien Revealed
-3 Make Disappear
-4 Mantle of Tides
 4 Meeting of Minds
-2 Meldweb Curator
-2 Memory Lapse
-1 Mental Journey
 4 Mental Note
 3 Merchant Scroll
-4 Merfolk Looter
 4 Metallic Rebuke
-2 Mind Sculpt
 3 Mirrorshell Crab
-1 Miscalculation
-4 Mistblade Shinobi
-2 Mizzium Skin
 3 Mnemonic Wall
 4 Moon-Circuit Hacker
-4 Mothdust Changeling
 1 Muddle the Mixture
 4 Mulldrifter
 4 Murmuring Mystic
-4 Mystic Remora
 3 Mystical Teachings
 4 Negate
 4 Ninja of the Deep Hours
-3 Nullify
 4 Of One Mind
-4 Omen of the Sea
-4 One With the Wind
-1 Opt
-2 Otherworldly Gaze
-1 Out Cold
-2 Peek
-10 Persistent Petitioners
 4 Pieces of the Puzzle
-3 Piracy Charm
 4 Ponder
-3 Power Sink
 4 Preordain
 4 Prohibit
 4 Prologue to Phyresis
-1 Psychic Barrier
-2 Quick Study
-1 Ravenform
-4 Relic's Roar
 4 Remove Soul
-1 Repeal
 1 Repository Skaab
-1 Repulse
-4 Rhystic Study
 1 Sage's Row Denizen
 4 Saiba Cryptomancer
-3 Screeching Sliver
 4 Sea Gate Oracle
-4 Seal of Removal
 1 Secret Door
-4 Security Bypass
-2 Serpentine Curve
-1 Serum Visions
-1 Shadow Rift
-2 Shore Up
-1 Sigil of Sleep
-1 Skyswimmer Koi
 2 Smoke Shroud
 4 Snap
-1 Snapback
-4 Snaremaster Sprite
 3 Somber Hoverguard
-1 Spell Blast
 4 Spell Pierce
 4 Spellstutter Sprite
-3 Spined Megalodon
-4 Spreading Seas
-4 Steady Progress
 4 Steel Sabotage
 1 Step Through
-2 Stern Dismissal
 3 Stormbound Geist
 4 Stream of Thought
-1 Sunken City
-1 Syncopate
-4 Telling Time
 4 The Modern Age // Vector Glider
 1 Third Path Savant
 4 Thought Scour
 4 Thoughtcast
 4 Tolarian Terror
 3 Turn Aside
-1 Unauthorized Exit
-3 Unstable Mutation
 1 Unwind
 4 Vapor Snag
-4 Vision Charm
 4 Vivisurgeon's Insight
-4 Water Wings
 4 Weakstone's Subjugation
-1 Whiplash Trap
-3 Winged Sliver
-2 Witching Well
-4 Witness Protection
 2 Words of Wisdom
-2 You Come to a River

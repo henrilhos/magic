@@ -1,45 +1,14 @@
-1 Aethertow
 3 Agony Warp
-3 Architects of Will
-4 Armadillo Cloak
-2 Beckon Apparition
-2 Blightning
-2 Branching Bolt
-4 Breathless Knight
 4 Burning-Tree Emissary
 4 Castigate
-4 Coiling Oracle
-3 Cram Session
-3 Curse of Chains
-2 Dihada's Ploy
 2 Dinrova Horror
-4 Double Cleave
-2 Eureka Moment
 3 Fire // Ice
 4 Foundry Helix
-2 Gift of Orzhova
 4 Growth Spiral
-2 Harsh Sustenance
 4 Inside Out
 2 Izzet Charm
-1 Jedit Ojanen
-4 Judge's Familiar
 4 Manamorphose
-4 Monstrous Carabid
 3 Nature's Chant
-4 Nivix Cyclops
-1 Pest Summoning
-2 Qasali Pridemage
-1 Recoil
-1 Shambling Shell
-3 Shattering Blow
-1 Sivitri Scarzam
-4 Slippery Bogle
-1 Soul Manipulation
-1 Sundering Growth
 4 Temporal Spring
-2 Terminal Agony
 2 Terminate
-4 Thrilling Discovery
-1 Tobias Andrion
 4 Unmake
