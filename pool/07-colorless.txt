@@ -1,43 +1,20 @@
+3 Aether Spellbomb
 4 Ashnod's Altar
-4 Campfire
-4 Candy Trail
-4 Chromatic Sphere
-4 Chromatic Star
+4 Bonesplitter
 4 Conjurer's Bauble
+4 Corpse Cur
 3 Crashing Drawbridge
-4 Energy Refractor
-4 Everflowing Chalice
-4 Expedition Map
-4 Filigree Familiar
-4 Frogmite
-2 Ghostfire
-4 Gingerbrute
+2 Fodder Tosser
+3 Ghostfire
+3 Golden Egg
 4 Golem Foundry
-4 Ichor Wellspring
-4 Ichorclaw Myr
-4 Implement of Combustion
-2 Introduction to Prophecy
-4 Lembas
-4 Lotus Petal
-4 Maelstrom Colossus
-4 Myr Enforcer
-4 Myr Kinsmith
+1 Halo Hopper
+3 Immolating Souleater
 4 Myr Retriever
 4 Navigator's Compass
-3 Network Terminal
-4 Nihil Spellbomb
-4 Pentad Prism
-4 Pyrite Spellbomb
-4 Relic of Progenitus
-2 Runaway Boulder
-4 Scrapwork Mutt
-4 Self-Assembler
+4 Phyrexian Walker
+3 Runaway Boulder
 4 Serrated Arrows
-4 Shield-Wall Sentinel
-4 Spare Supplies
-3 Spire Golem
-4 Tormod's Crypt
-4 Ulamog's Crusher
-3 Viridian Longbow
-4 Wedding Invitation
-4 Wizard's Rockets
+3 Slip Through Space
+3 Staunch Throneguard
+4 Sunbeam Spellbomb

@@ -1,0 +1,6 @@
+1 Forest
+2 Grisly Survivor
+1 Island
+2 Mountain
+3 Swamp
+3 Unearth

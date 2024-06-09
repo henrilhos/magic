@@ -1,91 +1,71 @@
-4 Accumulated Knowledge
-4 Annul
-4 Arcane Denial
-3 Archaeomancer
-4 Augur of Bolas
-3 Azure Fleet Admiral
-4 Behold the Multiverse
-4 Blue Elemental Blast
+2 Arcane Denial
+2 Artful Dodge
+4 Bind the Monster
+4 Blighted Agent
 4 Boomerang
-4 Brainstorm
-4 Brinebarrow Intruder
-4 Bring the Ending
-3 Compulsive Research
-4 Consider
-4 Contentious Plan
-4 Counterspell
-4 Cryptic Serpent
-3 Curfew
+4 Careful Study
+4 Circular Logic
+4 Condescend
+1 Curfew
 4 Deduce
-4 Deep Analysis
-4 Delver of Secrets // Insectile Aberration
-4 Dispel
-4 Distant Melody
-4 Drift of Phantasms
-4 Echoing Truth
-2 Envelop
+4 Disrupt
+2 Distant Melody
+4 Distortion Strike
+4 Dive Down
+2 Dizzy Spell
+2 Dragon Wings
+4 Dream Stalker
+3 Envelop
 3 Essence Scatter
-3 Exclude
-4 Experimental Augury
-4 Faerie Miscreant
-4 Faerie Seer
-4 Fallaji Archaeologist
+4 Etherium Sculptor
+1 Exclude
+4 Fade Away
 3 False Summoning
-4 Force Spike
-4 Frantic Inventory
-1 Freed from the Real
-1 Galvanic Alchemist
-3 Gearseeker Serpent
+4 Filigree Attendant
+4 Foresight
+2 Freed from the Real
 2 Ghostly Flicker
-4 Hydroblast
-4 Impulse
+4 Gigadrowse
+4 Hard Evidence
+4 Hoodwink
+2 Jace's Erasure
 4 Jace's Phantasm
-2 Keep Watch
-4 Kenku Artificer
-3 Lose Focus
-4 Lórien Revealed
-4 Meeting of Minds
-4 Mental Note
+1 Keep Watch
+4 Mana Leak
+3 Mantle of Tides
+2 Memory Lapse
 3 Merchant Scroll
-4 Metallic Rebuke
-3 Mirrorshell Crab
-3 Mnemonic Wall
-4 Moon-Circuit Hacker
-1 Muddle the Mixture
-4 Mulldrifter
-4 Murmuring Mystic
-3 Mystical Teachings
-4 Negate
-4 Ninja of the Deep Hours
-4 Of One Mind
-4 Pieces of the Puzzle
-4 Ponder
-4 Preordain
-4 Prohibit
-4 Prologue to Phyresis
+4 Merfolk Looter
+4 Merfolk Secretkeeper // Venture Deeper
+1 Moonblade Shinobi
+4 Mystic Remora
+3 Nullify
+4 Otherworldly Gaze
+4 Peek
+4 Piracy Charm
+4 Power Sink
+4 Quick Study
 4 Remove Soul
-1 Repository Skaab
-1 Sage's Row Denizen
-4 Saiba Cryptomancer
-4 Sea Gate Oracle
-1 Secret Door
-2 Smoke Shroud
-4 Snap
-3 Somber Hoverguard
-4 Spell Pierce
-4 Spellstutter Sprite
-4 Steel Sabotage
+4 Repeal
+4 Reverse Engineer
+2 Rush of Knowledge
+2 Secret Door
+4 Serum Visions
+4 Shadow Rift
+4 Smoke Shroud
+4 Snaremaster Sprite
+2 Somber Hoverguard
+4 Spreading Seas
+4 Steady Progress
 1 Step Through
-3 Stormbound Geist
-4 Stream of Thought
-4 The Modern Age // Vector Glider
+2 Stern Dismissal
+2 Sunken City
 1 Third Path Savant
-4 Thought Scour
-4 Thoughtcast
-4 Tolarian Terror
-3 Turn Aside
+4 Trinket Mage
+4 Turn Aside
 1 Unwind
-4 Vapor Snag
-4 Vivisurgeon's Insight
+4 Water Wings
 4 Weakstone's Subjugation
-2 Words of Wisdom
+3 Wind Zendikon
+4 Witness Protection
+4 Words of Wisdom

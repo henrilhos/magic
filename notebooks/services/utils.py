@@ -7,11 +7,13 @@ def get_snow_lands():
 
 
 def get_banned_cards():
-    return ["_____ Bird Gets the Worm", "_____ Goblin", "_____-o-saurus", "Aarakocra Sneak", "Aerialephant", "All That Glitters", "Arcum's Astrolabe", "Atog", "Bonder's Ornament", "Carnival Carnivore", "Chatterstorm", "Chicken Troupe", "Cloud of Faeries", "Cloudpost", "Command Performance", "Cranial Plating", "Daze", "Disciple of the Vault", "Empty the Warrens", "Fall from Favor", "Finishing Move", "Frantic Search", "Galvanic Relay", "Gitaxian Probe", "Glitterflitter", "Grapeshot", "Gush", "High Tide", "Hymn to Tourach", "Invigorate", "Minotaur de Force", "Monastery Swiftspear", "Mystic Sanctuary", "Peregrine Drake", "Pradesh Gypsies", "Prize Wall", "Prophetic Prism", "Robo-Piñata", "Sinkhole", "Sojourner's Companion", "Stiltstrider", "Stirring Bard", "Stone-Throwing Devils", "Temporal Fissure", "Ticketomaton", "Treasure Cruise", "Underdark Explorer", "Vicious Battlerager", "Wizards of the _____", "Wolf in _____ Clothing"]
+    return ["_____ Bird Gets the Worm", "_____ Goblin", "_____-o-saurus", "Aarakocra Sneak", "Aerialephant", "All That Glitters", "Arcum's Astrolabe", "Atog", "Bonder's Ornament", "Carnival Carnivore", "Chatterstorm", "Chicken Troupe", "Cloud of Faeries", "Cloudpost", "Command Performance", "Cranial Plating", "Daze", "Disciple of the Vault", "Empty the Warrens", "Fall from Favor", "Finishing Move", "Frantic Search", "Galvanic Relay", "Gitaxian Probe", "Glitterflitter", "Grapeshot", "Gush", "High Tide", "Hymn to Tourach", "Invigorate", "Minotaur de Force", "Monastery Swiftspear", "Mystic Sanctuary", "Peregrine Drake", "Pradesh Gypsies", "Prize Wall", "Prophetic Prism", "Robo-Piñata", "Sinkhole", "Sojourner's Companion", "Stiltstrider", "Stirring Bard", "Stone-Throwing Devils", "Temporal Fissure", "Ticketomaton", "Treasure Cruise", "Underdark Explorer", "Vicious Battlerager", "Wizards of the _____", "Wolf in _____ Clothing", "\"Name Sticker\" Goblin"]
 
 
 def rename_name_sticker_goblin(list):
-    return [card.replace("________ Goblin", "_____ Goblin", 1) if card == "________ Goblin" else card for card in list]
+    list = [card.replace("________ Goblin", "_____ Goblin", 1) if card == "________ Goblin" else card for card in list]
+    list = [card.replace('"Name Sticker" Goblin', "_____ Goblin", 1) if card == '"Name Sticker" Goblin' else card for card in list]
+    return list
 
 
 def remove_snow_covered_lands(list):

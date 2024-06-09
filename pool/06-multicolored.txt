@@ -1,14 +1,22 @@
-3 Agony Warp
-4 Burning-Tree Emissary
-4 Castigate
-2 Dinrova Horror
-3 Fire // Ice
-4 Foundry Helix
-4 Growth Spiral
-4 Inside Out
-2 Izzet Charm
-4 Manamorphose
-3 Nature's Chant
+2 Aethertow
+4 Armadillo Cloak
+4 Beckon Apparition
+2 Branching Bolt
+4 Coiling Oracle
+4 Cram Session
+3 Curse of Chains
+4 Double Cleave
+1 Fire // Ice
+1 Growth Spiral
+4 Judge's Familiar
+2 Lurking Informant
+1 Nature's Chant
+4 Nivix Cyclops
+3 Pillory of the Sleepless
+2 Qasali Pridemage
+4 Recoil
+4 Shattering Blow
+4 Slippery Bogle
 4 Temporal Spring
-2 Terminate
-4 Unmake
+4 Terminal Agony
+4 Wild Cantor

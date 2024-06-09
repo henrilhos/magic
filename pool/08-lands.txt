@@ -1,93 +1,57 @@
-4 Ancient Den
-4 Ash Barrens
-4 Azorius Chancery
-4 Azorius Guildgate
-4 Barren Moor
-4 Basilisk Gate
 4 Black Dragon Gate
-4 Bojuka Bog
-4 Boros Garrison
+4 Bloodfell Caves
 4 Boros Guildgate
 4 Brokers Hideout
-4 Citadel Gate
+1 Captivating Cave
+1 Cave of Temptation
 4 Cliffgate
-4 Conduit Pylons
-4 Contaminated Aquifer
-4 Crystal Grotto
-4 Desert
-4 Dimir Aqueduct
-4 Drossforge Bridge
-4 Escape Tunnel
-3 Evolving Wilds
-17 Forest
+3 Darkmoss Bridge
+2 Desert
+2 Dismal Backwater
+21 Forest
 2 Forgotten Cave
-4 Geothermal Bog
-2 Gingerbread Cabin
-2 Glacial Floodplain
-4 Goldmire Bridge
-2 Golgari Rot Farm
-4 Great Furnace
-1 Haunted Fengraf
-4 Haunted Mire
-4 Heap Gate
-4 Hickory Woodlot
-3 Highland Forest
-3 Holdout Settlement
-4 Ice Tunnel
-3 Idyllic Beachfront
+4 Gingerbread Cabin
+1 Golgari Rot Farm
+4 Gruul Turf
+2 Hidden Nursery
+2 Holdout Settlement
+1 Idyllic Beachfront
 4 Idyllic Grange
-19 Island
-4 Jagged Barrens
-2 Kabira Crossroads
-4 Khalni Garden
-4 Maestros Theater
+20 Island
+4 Kabira Crossroads
+2 Lonely Sandbar
+2 Lorehold Campus
 4 Manor Gate
-4 Mistvault Bridge
-2 Molten Tributary
+4 Molten Tributary
 1 Mortuary Mire
-18 Mountain
-4 Obscura Storefront
-4 Orzhov Basilica
-4 Peat Bog
-19 Plains
-1 Polluted Mire
-2 Quandrix Campus
-4 Radiant Fountain
+20 Mountain
+4 Orzhov Guildgate
+4 Piranha Marsh
+21 Plains
+2 Racers' Ring
 3 Radiant Grove
-3 Rakdos Carnarium
-4 Razortide Bridge
-1 Remote Isle
-2 Rimewood Falls
-4 Rustvale Bridge
-4 Saprazzan Skerry
-4 Scoured Barrens
-4 Sea Gate
-4 Seat of the Synod
-4 Silverbluff Bridge
-1 Silverquill Campus
-4 Simic Growth Chamber
+4 Rakdos Guildgate
+2 Remote Farm
+4 Riveteers Overlook
+3 Rugged Highlands
+4 Secluded Steppe
+3 Silverquill Campus
+3 Simic Growth Chamber
 1 Smoldering Crater
-16 Snow-Covered Forest
-12 Snow-Covered Island
-4 Snow-Covered Mountain
-2 Snow-Covered Plains
-10 Snow-Covered Swamp
-4 Snowfield Sinkhole
-4 Sunlit Marsh
-18 Swamp
-3 Tangled Islet
+19 Snow-Covered Forest
+13 Snow-Covered Island
+13 Snow-Covered Mountain
+5 Snow-Covered Plains
+16 Snow-Covered Swamp
+3 Sulfurous Mire
+3 Sunlit Marsh
+4 Survivors' Encampment
+20 Swamp
+4 Swiftwater Cliffs
+4 Tangled Islet
 4 The Autonomous Furnace
-4 Thornwood Falls
-4 Thriving Grove
-4 Thriving Heath
-4 Thriving Isle
-4 Tramway Station
-4 Urza's Mine
-4 Urza's Power Plant
-4 Urza's Tower
-4 Vault of Whispers
-4 Volatile Fjord
-4 Wind-Scarred Crag
-4 Witch's Cottage
-2 Wooded Ridgeline
-4 Woodland Chasm
+4 Thornglint Bridge
+3 Thornwood Falls
+2 Thriving Heath
+2 Tramway Station
+2 Waterfront District

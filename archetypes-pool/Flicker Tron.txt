@@ -1,0 +1,78 @@
+1 Abrade
+2 Ancient Grudge
+4 Blue Elemental Blast
+1 Bojuka Bog
+4 Brainstorm
+3 Breath Weapon
+4 Candy Trail
+1 Captivating Cave
+1 Cave of Temptation
+1 Compulsive Research
+1 Condescend
+2 Conduit Pylons
+1 Counterspell
+3 Crop Rotation
+1 Crystal Grotto
+1 Dawnbringer Cleric
+1 Deduce
+1 Deglamer
+1 Destroy Evil
+1 Dinrova Horror
+1 Dispel
+4 Energy Refractor
+2 Ephemerate
+2 Exclude
+4 Expedition Map
+1 Fade Away
+2 Faerie Macabre
+1 Fangren Marauder
+1 Flame Slash
+1 Generous Gift
+2 Ghostly Flicker
+1 Glacial Floodplain
+3 Gorilla Shaman
+1 Haunted Fengraf
+4 Hydroblast
+4 Impulse
+2 Island
+2 Kaervek's Torch
+1 Last Breath
+4 Lórien Revealed
+3 Mnemonic Wall
+1 Molten Tributary
+4 Moment's Peace
+1 Mournwhelk
+4 Mulldrifter
+2 Murmuring Mystic
+3 Mystical Teachings
+2 Nature's Claim
+1 Negate
+1 Network Terminal
+3 Obsidian Acolyte
+1 Power Sink
+2 Prohibit
+2 Pulse of Murasa
+4 Pyroblast
+1 Quandrix Campus
+4 Red Elemental Blast
+1 Remote Isle
+1 Return to Nature
+2 Rhystic Circle
+1 Rimewood Falls
+2 Rolling Thunder
+2 Runaway Boulder
+1 Scattershot
+2 Sea Gate
+1 Shred Memory
+2 Steel Sabotage
+2 Stonehorn Dignitary
+2 Tangled Islet
+1 Thornwood Falls
+3 Thriving Isle
+2 Tranquility
+1 Unwind
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+1 Volatile Fjord
+3 Weather the Storm
